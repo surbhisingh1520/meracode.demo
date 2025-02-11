@@ -1,2 +1,3 @@
 # meracode.demo
-this is my first git repository
+This is my first git repository
+AUTHOR - Surbhi Singh
